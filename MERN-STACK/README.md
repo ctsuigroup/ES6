@@ -1,13 +1,21 @@
-# mern-stack
+# MERN -STACK
 MongoDB, Express, React/Redux, Node
 
 ## clone or download 
 ```terminal
-$ git clone https://github.com/amazingandyyy/mern-stack.git
+$ git clone https://github.com/ctsuigroup/JavaScript-Latest-UI-Frameworks.git
+```
+
+# Mongo DB Set up(make it run on your machine)
+```terminal
+$ Start Mongo DB connection server -> C:\Program Files\MongoDB\Server\3.4\bin>mongod -dbpath="G:\Training\mongodb\dbSetup" 
+$ Start Mongo Shell -> C:\Program Files\MongoDB\Server\3.4\bin>mongo
+$ create a database with name <mydb>, then use DATABASE statement would be as follows −
+use mydb
+switched to db mydb
 ```
 
 # Usage(make it run on your machine)
-### Client-side usage(PORT: 8088)
 ```terminal
 $ cd client
 $ npm i
@@ -40,24 +48,22 @@ redux-thunk: ^2.1.0 |
 # Work Flow Diagram of MERN -Application
 ![Navigation of Application overview](http://i.imgur.com/e4Pzg8y.png)
 
-# Screemshots of this project
+# Screenshots of this project
 
-User visit public and Home page
-![User visit public and Home page](http://i.imgur.com/ORCGHHY.png)
+User Home page
+![User visit public and Home page](http://i.imgur.com/59fHrqi.png)
 
 User can sign in or sign up
-![User can sign in or sign up](http://i.imgur.com/rrmbU5I.png)
+![User can sign in or sign up](http://i.imgur.com/iZoNpis.png)
 
 After signing in user can go to secret route and make request to token-protected API endpoint
 ![After signing in user can go to secret route](http://i.imgur.com/FzLB51u.png)
 
 ## BUGs or comments
-[Create new Issues](https://github.com/amazingandyyy/mern-stack/issues)
+vinodnlee@gmail.com
 
 ## Author
-[Amazingandyyy](amazingandyyy.github.io)
-- Feel free to find me on _[GitHub](https://github.com/amazingandyyy)_ and _[LiveCoding](https://www.livecoding.tv/amazingandyyy/)_
-- or visit my _[page](http://amazingandyyy.github.io/)_
+UI-Stack Experts
 
 ### License
-[MIT](https://github.com/amazingandyyy/eventbrite-api/blob/master/LICENSE)
+Open source Contribution
