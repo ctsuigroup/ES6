@@ -17,19 +17,11 @@ switched to db mydb
 
 # Usage(make it run on your machine)
 ```terminal
-$ cd client
 $ npm i
-$ npm run dev
+$ npm start
 ```
 
-### Server-side usage(PORT: 8000)
-(I am sure you need to add a JWT_SECRET in .env to connect to MongoDB -> make it run -> check your terminal for instructions
-)
-```terminal
-$ cd server
-$ npm i
-$ npm run dev
-```
+
 
 # Dependencies(tech-stack)
 Client-side | Server-side
