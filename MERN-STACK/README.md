@@ -53,11 +53,11 @@ redux-thunk: ^2.1.0 |
 User Home page
 ![User visit public and Home page](http://i.imgur.com/59fHrqi.png)
 
-User can sign in or sign up
-![User can sign in or sign up](http://i.imgur.com/iZoNpis.png)
+User can sign up
+![User can sign up](http://i.imgur.com/iZoNpis.png)
 
-After signing in user can go to secret route and make request to token-protected API endpoint
-![After signing in user can go to secret route](http://i.imgur.com/FzLB51u.png)
+User can sign in
+![User can sign in](http://i.imgur.com/aGUsIph.png)
 
 ## BUGs or comments
 vinodnlee@gmail.com
