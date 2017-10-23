@@ -13,7 +13,7 @@ $ git clone https://github.com/ctsuigroup/JavaScript-Latest-UI-Frameworks.git
 vinodnlee@gmail.com
 
 ## Author
-UI-Stack Group
+UI-Stack Group 2017
 
 ### License
 Open License -vinodnlee@gmail.com
