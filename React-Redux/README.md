@@ -1,4 +1,5 @@
-# UI TECHNOLOGY LIST
+# React-Redux-Registration-Login-example
+React + Redux - User Registration and Login Tutorial & Example
 
 
 ## clone or download 
@@ -6,14 +7,17 @@
 $ git clone https://github.com/ctsuigroup/JavaScript-Latest-UI-Frameworks.git
 ```
 
-# UI Application
-![List of UI Application overview](http://i.imgur.com/j2JMena.jpg)
+# Usage(make it run on your machine)
+```terminal
+$ npm i
+$ npm start
+```
 
-## BUGS or comments
+## BUGs or comments
 vinodnlee@gmail.com
 
 ## Author
-UI-Stack Group 2017
+UI-Stack Experts
 
 ### License
-Open License -vinodnlee@gmail.com
+Open source Contribution
